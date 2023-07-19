@@ -1,0 +1,9 @@
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\bin\x64\Release\insereNAP.dll.config
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\bin\x64\Release\insereNAP.dll
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\bin\x64\Release\insereNAP.pdb
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\obj\x64\Release\insereNAP.dll
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\obj\x64\Release\insereNAP.pdb
+C:\Users\liped\source\repos\insereNAP\insereNAP\obj\x64\Release\insereNAP.csproj.AssemblyReference.cache
+C:\Users\liped\source\repos\insereNAP\insereNAP\obj\x64\Release\insereNAP.csproj.CoreCompileInputs.cache
+C:\Users\liped\source\repos\insereNAP\insereNAP\obj\x64\Release\insereNAP.dll
+C:\Users\liped\source\repos\insereNAP\insereNAP\obj\x64\Release\insereNAP.pdb

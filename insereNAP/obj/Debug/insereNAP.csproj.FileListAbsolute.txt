@@ -1,0 +1,6 @@
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\bin\Debug\insereNAP.dll.config
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\bin\Debug\insereNAP.dll
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\bin\Debug\insereNAP.pdb
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\obj\Debug\insereNAP.csprojResolveAssemblyReference.cache
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\obj\Debug\insereNAP.dll
+C:\Users\outra\Documents\Team 2017 Cad\FerramentaCad\insereNAP\insereNAP\obj\Debug\insereNAP.pdb
